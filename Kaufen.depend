@@ -1,0 +1,476 @@
+# depslib dependency file v1.0
+1350121313 source:c:\erikprogram\kaufen\main.c
+	<windows.h>
+	<gl/gl.h>
+	"kaufen.h"
+
+1350127073 source:c:\erikprogram\kaufen\kaufen.cpp
+	"kaufen.h"
+
+1350126917 c:\erikprogram\kaufen\kaufen.h
+	"panel.h"
+	"perlinnoise.h"
+
+1332673240 source:c:\erikprogram\kaufen\logfile.cpp
+	"logfile.h"
+	<iostream>
+	<ctime>
+	<string>
+
+1332069094 c:\erikprogram\kaufen\logfile.h
+	<fstream>
+	<string>
+
+1350120652 source:c:\erikprogram\kaufen\perlinnoise.cpp
+	"perlinnoise.h"
+
+1350120640 c:\erikprogram\kaufen\perlinnoise.h
+
+1329860104 source:c:\erikprogram\kaufen\sound.cpp
+	<stdio.h>
+	"sound.h"
+
+1328824322 c:\erikprogram\kaufen\sound.h
+	<cstdlib>
+	<iostream>
+	<windows.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1219410390 source:c:\erikprogram\kaufen\vec3f.cpp
+	<math.h>
+	"vec3f.h"
+
+1219410390 c:\erikprogram\kaufen\vec3f.h
+	<iostream>
+
+1325249352 source:c:\erikprogram\kaufen\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1325249352 c:\erikprogram\kaufen\imageloader.h
+
+1350126943 source:c:\erikprogram\kaufen\panel.cpp
+	"panel.h"
+
+1350127976 c:\erikprogram\kaufen\panel.h
+	<gl\gl.h>
+	"button.h"
+	"imageloader.h"
+	<vector>
+
+1350126917 source:c:\erikprogram\kaufen\button.cpp
+	"button.h"
+
+1350126917 c:\erikprogram\kaufen\button.h
+
+1350125771 source:c:\erikprogram\kaufen\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"kaufen.h"
+
+1350939348 source:c:\erikprogram\kaufen - new\button.cpp
+	"button.h"
+
+1350936564 c:\erikprogram\kaufen - new\button.h
+	<gl\gl.h>
+	<iostream>
+
+1325249352 source:c:\erikprogram\kaufen - new\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1325249352 c:\erikprogram\kaufen - new\imageloader.h
+
+1350734637 source:c:\erikprogram\kaufen - new\kaufen.cpp
+	"kaufen.h"
+
+1350734637 c:\erikprogram\kaufen - new\kaufen.h
+	"panel.h"
+	"perlinnoise.h"
+	<time.h>
+
+1350828639 c:\erikprogram\kaufen - new\panel.h
+	<iostream>
+	<gl\gl.h>
+	"merc.h"
+	"button.h"
+	"graph.h"
+	"display.h"
+	"decal.h"
+	"noise_generator.h"
+	"imageloader.h"
+	<vector>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1350120640 c:\erikprogram\kaufen - new\perlinnoise.h
+
+1332673240 source:c:\erikprogram\kaufen - new\logfile.cpp
+	"logfile.h"
+	<iostream>
+	<ctime>
+	<string>
+
+1332069094 c:\erikprogram\kaufen - new\logfile.h
+	<fstream>
+	<string>
+
+1350939503 source:c:\erikprogram\kaufen - new\main.cpp
+	<iostream>
+	<windows.h>
+	<gl/gl.h>
+	"kaufen.h"
+
+1350120652 source:c:\erikprogram\kaufen - new\perlinnoise.cpp
+	"perlinnoise.h"
+
+1329860104 source:c:\erikprogram\kaufen - new\sound.cpp
+	<stdio.h>
+	"sound.h"
+
+1328824322 c:\erikprogram\kaufen - new\sound.h
+	<cstdlib>
+	<iostream>
+	<windows.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1219410390 source:c:\erikprogram\kaufen - new\vec3f.cpp
+	<math.h>
+	"vec3f.h"
+
+1219410390 c:\erikprogram\kaufen - new\vec3f.h
+	<iostream>
+
+1350939800 source:c:\erikprogram\kaufen - new\panel.cpp
+	"panel.h"
+
+1350423932 c:\erikprogram\kaufen - new\graph.h
+	<vector>
+	<gl\gl.h>
+	<iostream>
+
+1350740174 source:c:\erikprogram\kaufen - new\graph.cpp
+	"graph.h"
+
+1350736089 source:c:\erikprogram\kaufen - new\display.cpp
+	"display.h"
+
+1350583763 c:\erikprogram\kaufen - new\display.h
+	<iostream>
+	<sstream>
+	<stdio.h>
+	<ctype.h>
+	<string>
+	<gl\gl.h>
+
+1350740312 source:c:\erikprogram\kaufen - new\stuff.cpp
+	"stuff.h"
+
+1350740195 c:\erikprogram\kaufen - new\stuff.h
+	"button.h"
+	"display.h"
+	"graph.h"
+	"decal.h"
+	"noise_generator.h"
+	<string>
+
+1350731597 source:c:\erikprogram\kaufen - new\decal.cpp
+	"decal.h"
+
+1350731597 c:\erikprogram\kaufen - new\decal.h
+	<gl\gl.h>
+
+1350826092 source:c:\erikprogram\kaufen - new\noise_generator.cpp
+	"noise_generator.h"
+	<math.h>
+
+1350826092 c:\erikprogram\kaufen - new\noise_generator.h
+
+1350941032 c:\erikprogram\kaufen - new\merc.h
+	"button.h"
+	"display.h"
+	"graph.h"
+	"decal.h"
+	"noise_generator.h"
+	<string>
+	<gl\gl.h>
+
+1350941058 source:c:\erikprogram\kaufen - new\merc.cpp
+	"merc.h"
+
+1356969732 source:c:\erikprogram\kaufen\kaufen - new\button.cpp
+	"button.h"
+
+1356969732 c:\erikprogram\kaufen\kaufen - new\button.h
+	<gl\gl.h>
+	<iostream>
+
+1358366821 source:c:\erikprogram\kaufen\kaufen - new\decal.cpp
+	"decal.h"
+
+1357130308 c:\erikprogram\kaufen\kaufen - new\decal.h
+	<gl\gl.h>
+
+1359196048 source:c:\erikprogram\kaufen\kaufen - new\display.cpp
+	"display.h"
+
+1359063811 c:\erikprogram\kaufen\kaufen - new\display.h
+	<iostream>
+	<sstream>
+	<stdio.h>
+	<ctype.h>
+	<string>
+	<gl\gl.h>
+
+1357760543 source:c:\erikprogram\kaufen\kaufen - new\graph.cpp
+	"graph.h"
+
+1357650721 c:\erikprogram\kaufen\kaufen - new\graph.h
+	<stdlib.h>
+	<vector>
+	<gl\gl.h>
+	<iostream>
+
+1325245752 source:c:\erikprogram\kaufen\kaufen - new\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1325245752 c:\erikprogram\kaufen\kaufen - new\imageloader.h
+
+1361021490 source:c:\erikprogram\kaufen\kaufen - new\kaufen.cpp
+	"kaufen.h"
+	<windows.h>
+
+1361021637 c:\erikprogram\kaufen\kaufen - new\kaufen.h
+	"panel.h"
+	"perlinnoise.h"
+	"networkCom.h"
+	"menu.h"
+	"imageloader.h"
+	"lobby.h"
+	"win_window.h"
+	"sound.h"
+	"logfile.h"
+	<sstream>
+	<time.h>
+	<winsock2.h>
+
+1360866359 c:\erikprogram\kaufen\kaufen - new\panel.h
+	<iostream>
+	<gl\gl.h>
+	<math.h>
+	"merc.h"
+	"button.h"
+	"graph.h"
+	"display.h"
+	"decal.h"
+	"inventory.h"
+	"console.h"
+	"highscore.h"
+	"sound.h"
+	<vector>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+
+1359297317 c:\erikprogram\kaufen\kaufen - new\merc.h
+	"button.h"
+	"display.h"
+	"graph.h"
+	"decal.h"
+	"noise_generator.h"
+	"sound.h"
+	<string>
+	<gl\gl.h>
+
+1350822492 c:\erikprogram\kaufen\kaufen - new\noise_generator.h
+
+1350117040 c:\erikprogram\kaufen\kaufen - new\perlinnoise.h
+
+1360867172 source:c:\erikprogram\kaufen\kaufen - new\logfile.cpp
+	"logfile.h"
+	<iostream>
+	<ctime>
+	<string>
+
+1360867173 c:\erikprogram\kaufen\kaufen - new\logfile.h
+	<fstream>
+	<string>
+
+1360866804 source:c:\erikprogram\kaufen\kaufen - new\main.cpp
+	<iostream>
+	<fcntl.h>
+	<windows.h>
+	<winsock2.h>
+	<gl/gl.h>
+	"kaufen.h"
+	"resource.h"
+
+1360179655 source:c:\erikprogram\kaufen\kaufen - new\merc.cpp
+	"merc.h"
+
+1351335265 source:c:\erikprogram\kaufen\kaufen - new\noise_generator.cpp
+	"noise_generator.h"
+	<math.h>
+
+1360866666 source:c:\erikprogram\kaufen\kaufen - new\panel.cpp
+	"panel.h"
+
+1350117052 source:c:\erikprogram\kaufen\kaufen - new\perlinnoise.cpp
+	"perlinnoise.h"
+
+1357561095 source:c:\erikprogram\kaufen\kaufen - new\sound.cpp
+	<stdio.h>
+	"sound.h"
+
+1357561096 c:\erikprogram\kaufen\kaufen - new\sound.h
+	"sound_list.h"
+	<cstdlib>
+	<iostream>
+	<windows.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1219406790 source:c:\erikprogram\kaufen\kaufen - new\vec3f.cpp
+	<math.h>
+	"vec3f.h"
+
+1219406790 c:\erikprogram\kaufen\kaufen - new\vec3f.h
+	<iostream>
+
+1359297317 source:c:\erikprogram\kaufen\kaufen - new\inventory.cpp
+	"inventory.h"
+
+1359297317 c:\erikprogram\kaufen\kaufen - new\inventory.h
+	<vector>
+	"display.h"
+	"decal.h"
+
+1357597712 c:\erikprogram\kaufen\kaufen - new\console.h
+	<vector>
+	<string>
+	"decal.h"
+	"display.h"
+	"sound.h"
+
+1359064239 source:c:\erikprogram\kaufen\kaufen - new\console.cpp
+	"console.h"
+
+1360405120 source:c:\erikprogram\kaufen\kaufen - new\highscore.cpp
+	"highscore.h"
+
+1357219285 c:\erikprogram\kaufen\kaufen - new\highscore.h
+	"decal.h"
+	"display.h"
+	"button.h"
+	<string>
+	<vector>
+
+1358978864 source:c:\erikprogram\kaufen\kaufen - new\clientcom.cpp
+	"clientCom.h"
+
+1354563923 c:\erikprogram\kaufen\kaufen - new\clientcom.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<vector>
+	<winsock2.h>
+
+1358979699 source:c:\erikprogram\kaufen\kaufen - new\networkcom.cpp
+	"networkCom.h"
+
+1358978804 c:\erikprogram\kaufen\kaufen - new\networkcom.h
+	<winsock2.h>
+	<iostream>
+	<string>
+	<vector>
+	<winsock2.h>
+	"serverCom.h"
+	"clientCom.h"
+
+1355056518 c:\erikprogram\kaufen\kaufen - new\servercom.h
+	<iostream>
+	<stdlib.h>
+	<winsock2.h>
+	<string>
+	<vector>
+
+1359056536 source:c:\erikprogram\kaufen\kaufen - new\servercom.cpp
+	"serverCom.h"
+
+1358976773 c:\erikprogram\kaufen\kaufen - new\menu.h
+	"decal.h"
+	"button.h"
+	"text_input_box.h"
+	"graph.h"
+	"noise_generator.h"
+	<vector>
+
+1358976947 source:c:\erikprogram\kaufen\kaufen - new\menu.cpp
+	"menu.h"
+
+1359064114 source:c:\erikprogram\kaufen\kaufen - new\text_input_box.cpp
+	"text_input_box.h"
+	<stdlib.h>
+	<cctype>
+	<sstream>
+
+1357598533 c:\erikprogram\kaufen\kaufen - new\text_input_box.h
+	"display.h"
+	"sound.h"
+	<string>
+	<gl\gl.h>
+
+1357597712 c:\erikprogram\kaufen\kaufen - new\lobby.h
+	"console.h"
+	"button.h"
+	"text_input_box.h"
+	"decal.h"
+	"text_list.h"
+
+1357676022 source:c:\erikprogram\kaufen\kaufen - new\lobby.cpp
+	"lobby.h"
+
+1356915197 c:\erikprogram\kaufen\kaufen - new\text_list.h
+	"decal.h"
+	"display.h"
+	"button.h"
+	<string>
+	<vector>
+
+1360405120 source:c:\erikprogram\kaufen\kaufen - new\text_list.cpp
+	"text_list.h"
+
+1358372578 c:\erikprogram\kaufen\kaufen - new\win_window.h
+	<vector>
+	<stdlib.h>
+	"button.h"
+	"decal.h"
+	"display.h"
+	"coin_anim.h"
+
+1358376504 source:c:\erikprogram\kaufen\kaufen - new\win_window.cpp
+	"win_window.h"
+
+1358368646 c:\erikprogram\kaufen\kaufen - new\sound_list.h
+
+1358283863 source:c:\erikprogram\kaufen\kaufen - new\resource.rc
+	"resource.h"
+
+1358285385 c:\erikprogram\kaufen\kaufen - new\resource.h
+
+1358376433 c:\erikprogram\kaufen\kaufen - new\coin_anim.h
+	<stdlib.h>
+	"decal.h"
+
+1358376409 source:c:\erikprogram\kaufen\kaufen - new\coin_anim.cpp
+	"coin_anim.h"
+

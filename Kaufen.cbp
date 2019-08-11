@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Kaufen" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="WallStreeting" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\libws2_32.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="WallStreeting" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\libws2_32.a" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="gdi32" />
+			<Add library="..\..\..\Program Files (x86)\CodeBlocks\MinGW\lib\OpenAL32.lib" />
+		</Linker>
+		<Unit filename="button.cpp" />
+		<Unit filename="button.h" />
+		<Unit filename="clientCom.cpp" />
+		<Unit filename="clientCom.h" />
+		<Unit filename="coin_anim.cpp" />
+		<Unit filename="coin_anim.h" />
+		<Unit filename="console.cpp" />
+		<Unit filename="console.h" />
+		<Unit filename="decal.cpp" />
+		<Unit filename="decal.h" />
+		<Unit filename="display.cpp" />
+		<Unit filename="display.h" />
+		<Unit filename="graph.cpp" />
+		<Unit filename="graph.h" />
+		<Unit filename="highscore.cpp" />
+		<Unit filename="highscore.h" />
+		<Unit filename="imageloader.cpp" />
+		<Unit filename="imageloader.h" />
+		<Unit filename="inventory.cpp" />
+		<Unit filename="inventory.h" />
+		<Unit filename="kaufen.cpp" />
+		<Unit filename="kaufen.h" />
+		<Unit filename="lobby.cpp" />
+		<Unit filename="lobby.h" />
+		<Unit filename="logfile.cpp" />
+		<Unit filename="logfile.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menu.cpp" />
+		<Unit filename="menu.h" />
+		<Unit filename="merc.cpp" />
+		<Unit filename="merc.h" />
+		<Unit filename="networkCom.cpp" />
+		<Unit filename="networkCom.h" />
+		<Unit filename="noise_generator.cpp" />
+		<Unit filename="noise_generator.h" />
+		<Unit filename="panel.cpp" />
+		<Unit filename="panel.h" />
+		<Unit filename="perlinnoise.cpp" />
+		<Unit filename="perlinnoise.h" />
+		<Unit filename="resource.h" />
+		<Unit filename="resource.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="serverCom.cpp" />
+		<Unit filename="serverCom.h" />
+		<Unit filename="sound.cpp" />
+		<Unit filename="sound.h" />
+		<Unit filename="sound_list.h" />
+		<Unit filename="text_input_box.cpp" />
+		<Unit filename="text_input_box.h" />
+		<Unit filename="text_list.cpp" />
+		<Unit filename="text_list.h" />
+		<Unit filename="vec3f.cpp" />
+		<Unit filename="vec3f.h" />
+		<Unit filename="win_window.cpp" />
+		<Unit filename="win_window.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
